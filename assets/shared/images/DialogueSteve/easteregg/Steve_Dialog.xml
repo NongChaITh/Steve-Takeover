@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Steve_Dialog.png"><SubTexture name="Steve_Dialog idle0000" x="0" y="0" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve_Dialog idle0001" x="644" y="0" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve_Dialog idle0002" x="1288" y="0" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve_Dialog idle0003" x="1932" y="0" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve_Dialog idle0004" x="2576" y="0" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve_Dialog idle0005" x="0" y="629" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve_Dialog idle0006" x="644" y="629" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve_Dialog idle0007" x="1288" y="629" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve_Dialog idle0008" x="1932" y="629" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve_Dialog idle0009" x="2576" y="629" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve_Dialog idle0010" x="0" y="1258" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve_Dialog idle0011" x="644" y="1258" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve_Dialog idle0012" x="1288" y="1258" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve_Dialog idle0013" x="1932" y="1258" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve_Dialog idle0014" x="2576" y="1258" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve_Dialog idle0015" x="0" y="1887" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve_Dialog idle0016" x="644" y="1887" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve_Dialog idle0017" x="1288" y="1887" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve_Dialog idle0018" x="1932" y="1887" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve_Dialog idle0019" x="2576" y="1887" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve_Dialog idle0020" x="0" y="2516" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve_Dialog idle0021" x="644" y="2516" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve_Dialog idle0022" x="1288" y="2516" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve_Dialog idle0023" x="1932" y="2516" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve_Dialog idle0024" x="2576" y="2516" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve_Dialog idle0025" x="0" y="3145" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve_Dialog idle0026" x="644" y="3145" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve_Dialog idle0027" x="1288" y="3145" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve_Dialog idle0028" x="1932" y="3145" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve_Dialog idle0029" x="2576" y="3145" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+</TextureAtlas>

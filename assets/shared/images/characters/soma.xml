@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="soma.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Soma Down0000" x="0" y="0" width="311" height="285"/>
+	<SubTexture name="Soma Down0001" x="0" y="0" width="311" height="285"/>
+	<SubTexture name="Soma Down0002" x="0" y="0" width="311" height="285"/>
+	<SubTexture name="Soma Down0003" x="311" y="0" width="311" height="285"/>
+	<SubTexture name="Soma Down0004" x="311" y="0" width="311" height="285"/>
+	<SubTexture name="Soma Down0005" x="311" y="0" width="311" height="285"/>
+	<SubTexture name="Soma Down0006" x="311" y="0" width="311" height="285"/>
+	<SubTexture name="Soma Down0007" x="311" y="0" width="311" height="285"/>
+	<SubTexture name="Soma Down0008" x="311" y="0" width="311" height="285"/>
+	<SubTexture name="Soma Down0009" x="311" y="0" width="311" height="285"/>
+	<SubTexture name="Soma Down0010" x="311" y="0" width="311" height="285"/>
+	<SubTexture name="Soma Down0011" x="311" y="0" width="311" height="285"/>
+	<SubTexture name="Soma Down0012" x="311" y="0" width="311" height="285"/>
+	<SubTexture name="Soma Up0000" x="622" y="0" width="283" height="287"/>
+	<SubTexture name="Soma Up0001" x="622" y="0" width="283" height="287"/>
+	<SubTexture name="Soma Up0002" x="622" y="0" width="283" height="287"/>
+	<SubTexture name="Soma Up0003" x="905" y="0" width="283" height="287"/>
+	<SubTexture name="Soma Up0004" x="905" y="0" width="283" height="287"/>
+	<SubTexture name="Soma Up0005" x="905" y="0" width="283" height="287"/>
+	<SubTexture name="Soma Up0006" x="905" y="0" width="283" height="287"/>
+	<SubTexture name="Soma Up0007" x="905" y="0" width="283" height="287"/>
+	<SubTexture name="Soma Up0008" x="905" y="0" width="283" height="287"/>
+	<SubTexture name="Soma Up0009" x="905" y="0" width="283" height="287"/>
+	<SubTexture name="Soma Up0010" x="905" y="0" width="283" height="287"/>
+	<SubTexture name="Soma Up0011" x="905" y="0" width="283" height="287"/>
+	<SubTexture name="Soma Up0012" x="905" y="0" width="283" height="287"/>
+	<SubTexture name="Soma Up0013" x="905" y="0" width="283" height="287"/>
+	<SubTexture name="Soma left0000" x="1188" y="0" width="311" height="287"/>
+	<SubTexture name="Soma left0001" x="1188" y="0" width="311" height="287"/>
+	<SubTexture name="Soma left0002" x="1188" y="0" width="311" height="287"/>
+	<SubTexture name="Soma left0003" x="1188" y="0" width="311" height="287"/>
+	<SubTexture name="Soma left0004" x="1499" y="0" width="311" height="287"/>
+	<SubTexture name="Soma left0005" x="1499" y="0" width="311" height="287"/>
+	<SubTexture name="Soma left0006" x="1499" y="0" width="311" height="287"/>
+	<SubTexture name="Soma left0007" x="1499" y="0" width="311" height="287"/>
+	<SubTexture name="Soma left0008" x="1499" y="0" width="311" height="287"/>
+	<SubTexture name="Soma left0009" x="1499" y="0" width="311" height="287"/>
+	<SubTexture name="Soma left0010" x="1499" y="0" width="311" height="287"/>
+	<SubTexture name="Soma left0011" x="1499" y="0" width="311" height="287"/>
+	<SubTexture name="Soma right0000" x="0" y="574" width="339" height="287"/>
+	<SubTexture name="Soma right0001" x="0" y="574" width="339" height="287"/>
+	<SubTexture name="Soma right0002" x="0" y="574" width="339" height="287"/>
+	<SubTexture name="Soma right0003" x="0" y="287" width="339" height="287"/>
+	<SubTexture name="Soma right0004" x="0" y="287" width="339" height="287"/>
+	<SubTexture name="Soma right0005" x="0" y="287" width="339" height="287"/>
+	<SubTexture name="Soma right0006" x="0" y="287" width="339" height="287"/>
+	<SubTexture name="Soma right0007" x="0" y="287" width="339" height="287"/>
+	<SubTexture name="Soma right0008" x="0" y="287" width="339" height="287"/>
+	<SubTexture name="Soma right0009" x="0" y="287" width="339" height="287"/>
+	<SubTexture name="Soma right0010" x="0" y="287" width="339" height="287"/>
+	<SubTexture name="Soma right0011" x="0" y="287" width="339" height="287"/>
+	<SubTexture name="Soma right0012" x="0" y="287" width="339" height="287"/>
+	<SubTexture name="Soma right0013" x="0" y="287" width="339" height="287"/>
+	<SubTexture name="idle0000" x="339" y="287" width="339" height="287"/>
+	<SubTexture name="idle0001" x="678" y="287" width="339" height="287"/>
+	<SubTexture name="idle0002" x="1017" y="287" width="339" height="287"/>
+	<SubTexture name="idle0003" x="1356" y="287" width="339" height="287"/>
+	<SubTexture name="idle0004" x="1695" y="287" width="339" height="287"/>
+	<SubTexture name="idle0005" x="0" y="574" width="339" height="287"/>
+</TextureAtlas>

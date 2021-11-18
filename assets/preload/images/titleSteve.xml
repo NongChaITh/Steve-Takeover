@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="titleSteve.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="steveIdle0000" x="0" y="0" width="591" height="540" frameX="-2" frameY="-14" frameWidth="721" frameHeight="662"/>
+	<SubTexture name="steveIdle0001" x="0" y="0" width="591" height="540" frameX="-2" frameY="-14" frameWidth="721" frameHeight="662"/>
+	<SubTexture name="steveIdle0002" x="592" y="0" width="543" height="540" frameX="-2" frameY="-14" frameWidth="721" frameHeight="662"/>
+	<SubTexture name="steveIdle0003" x="592" y="0" width="543" height="540" frameX="-2" frameY="-14" frameWidth="721" frameHeight="662"/>
+	<SubTexture name="steveIdle0004" x="1146" y="0" width="577" height="540" frameX="-2" frameY="-14" frameWidth="721" frameHeight="662"/>
+	<SubTexture name="steveIdle0005" x="1146" y="0" width="577" height="540" frameX="-2" frameY="-14" frameWidth="721" frameHeight="662"/>
+	<SubTexture name="steveIdle0006" x="1723" y="0" width="591" height="540" frameX="-2" frameY="-14" frameWidth="721" frameHeight="662"/>
+	<SubTexture name="steveIdle0007" x="1723" y="0" width="591" height="540" frameX="-2" frameY="-14" frameWidth="721" frameHeight="662"/>
+	<SubTexture name="steveIdle0008" x="1723" y="0" width="591" height="540" frameX="-2" frameY="-14" frameWidth="721" frameHeight="662"/>
+	<SubTexture name="steveIdle0009" x="1723" y="0" width="591" height="540" frameX="-2" frameY="-14" frameWidth="721" frameHeight="662"/>
+	<SubTexture name="steveIdle0010" x="1723" y="0" width="591" height="540" frameX="-2" frameY="-14" frameWidth="721" frameHeight="662"/>
+	<SubTexture name="steveIdle0011" x="1723" y="0" width="591" height="540" frameX="-2" frameY="-14" frameWidth="721" frameHeight="662"/>
+	<SubTexture name="steveIdle0012" x="1723" y="0" width="591" height="540" frameX="-2" frameY="-14" frameWidth="721" frameHeight="662"/>
+	<SubTexture name="steveIdle0013" x="1723" y="0" width="591" height="540" frameX="-2" frameY="-14" frameWidth="721" frameHeight="662"/>
+	<SubTexture name="steveIdle0014" x="1723" y="0" width="591" height="540" frameX="-2" frameY="-14" frameWidth="721" frameHeight="662"/>
+	<SubTexture name="steveIdle0015" x="1723" y="0" width="591" height="540" frameX="-2" frameY="-14" frameWidth="721" frameHeight="662"/>
+</TextureAtlas>

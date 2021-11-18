@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="deadlyammoNote.png">
+<SubTexture name="DEADLY ammo right0000" x="0" y="41" width="201" height="123" frameX="0" frameY="0" frameWidth="155" frameHeight="146" />
+<SubTexture name="DEADLY ammo left0000" x="201" y="45" width="201" height="123" frameX="0" frameY="0" frameWidth="155" frameHeight="146" />
+<SubTexture name="DEADLY ammo up0000" x="417" y="0" width="122" height="197" frameX="0" frameY="0" frameWidth="145" frameHeight="154" />
+<SubTexture name="DEADLY ammo down0000" x="578" y="0" width="127" height="197" frameX="0" frameY="0" frameWidth="145" frameHeight="154" />
+</TextureAtlas>

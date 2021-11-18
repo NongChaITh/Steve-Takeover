@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Steve4Dialog.png"><SubTexture name="Steve4Dialog idle0000" x="0" y="0" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve4Dialog idle0001" x="644" y="0" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve4Dialog idle0002" x="0" y="629" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve4Dialog idle0003" x="644" y="629" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve4Dialog idle0004" x="0" y="1258" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve4Dialog idle0005" x="644" y="1258" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve4Dialog idle0006" x="0" y="1887" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve4Dialog idle0007" x="644" y="1887" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+</TextureAtlas>

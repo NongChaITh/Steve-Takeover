@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Steve3Dialog.png"><SubTexture name="Steve3Dialog idle0000" x="0" y="0" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve3Dialog idle0001" x="644" y="0" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve3Dialog idle0002" x="0" y="629" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve3Dialog idle0003" x="644" y="629" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve3Dialog idle0004" x="0" y="1258" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve3Dialog idle0005" x="644" y="1258" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+</TextureAtlas>

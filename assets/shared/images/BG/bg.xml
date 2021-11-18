@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bg.png"><SubTexture name="bg tank idle0000" x="0" y="0" width="1688" height="829" frameX="0" frameY="0" frameWidth="1688" frameHeight="829" />
+<SubTexture name="bg tank idle0001" x="1688" y="0" width="1688" height="829" frameX="0" frameY="0" frameWidth="1688" frameHeight="829" />
+<SubTexture name="bg tank idle0002" x="0" y="829" width="1688" height="829" frameX="0" frameY="0" frameWidth="1688" frameHeight="829" />
+<SubTexture name="bg tank idle0003" x="1688" y="829" width="1688" height="829" frameX="0" frameY="0" frameWidth="1688" frameHeight="829" />
+<SubTexture name="bg tank idle0004" x="0" y="1658" width="1688" height="829" frameX="0" frameY="0" frameWidth="1688" frameHeight="829" />
+<SubTexture name="bg tank idle0005" x="1688" y="1658" width="1688" height="829" frameX="0" frameY="0" frameWidth="1688" frameHeight="829" />
+</TextureAtlas>

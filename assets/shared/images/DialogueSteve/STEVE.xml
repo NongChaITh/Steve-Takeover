@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Steve.png"><SubTexture name="Steve 1 idle0000" x="0" y="0" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve 1 idle0001" x="644" y="0" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve 1 idle0002" x="1288" y="0" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve 1 idle0003" x="1932" y="0" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve 1 idle0004" x="2576" y="0" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve 1 idle0005" x="0" y="629" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve 1 idle0006" x="644" y="629" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve 1 idle0007" x="1288" y="629" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve 2 idle0000" x="1932" y="629" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve 2 idle0001" x="2576" y="629" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve 2 idle0002" x="0" y="1258" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve 2 idle0003" x="644" y="1258" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve 2 idle0004" x="1288" y="1258" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve 2 idle0005" x="1932" y="1258" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve 2 idle0006" x="2576" y="1258" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve 2 idle0007" x="0" y="1887" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve 3 idle0000" x="644" y="1887" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve 3 idle0001" x="1288" y="1887" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve 3 idle0002" x="1932" y="1887" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve 3 idle0003" x="2576" y="1887" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve 3 idle0004" x="0" y="2516" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve 3 idle0005" x="644" y="2516" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve 4 idle0000" x="1288" y="2516" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve 4 idle0001" x="1932" y="2516" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve 4 idle0002" x="2576" y="2516" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve 4 idle0003" x="0" y="3145" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve 4 idle0004" x="644" y="3145" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve 4 idle0005" x="1288" y="3145" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve 4 idle0006" x="1932" y="3145" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+<SubTexture name="Steve 4 idle0007" x="2576" y="3145" width="644" height="629" frameX="0" frameY="0" frameWidth="644" frameHeight="629" />
+</TextureAtlas>

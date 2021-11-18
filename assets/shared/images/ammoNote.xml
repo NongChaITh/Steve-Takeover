@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ammoNote.png">
+<SubTexture name="ammo right0000" x="2" y="39" width="156" height="88" frameX="0" frameY="0" frameWidth="159" frameHeight="161" />
+<SubTexture name="ammo left0000" x="162" y="36" width="154" height="89" frameX="0" frameY="0" frameWidth="159" frameHeight="161" />
+<SubTexture name="ammo up0000" x="354" y="2" width="87" height="153" frameX="0" frameY="0" frameWidth="162" frameHeight="158" />
+<SubTexture name="ammo down0000" x="516" y="2" width="87" height="154" frameX="0" frameY="0" frameWidth="162" frameHeight="158" />
+</TextureAtlas>
